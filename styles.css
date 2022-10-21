@@ -1,5 +1,17 @@
-/* Version 1.1 */
-* {
-  margin: 0;
-  padding: 0;
+.avatar {
+  width: 100%;
+  height: auto;
+  padding: 1em;
+}
+
+p {
+  font-family: Futura;
+  margin: 0 !important;
+  letter-spacing: 0.02em;
+}
+
+.profile-card {
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
 }
